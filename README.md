@@ -1,6 +1,13 @@
-# Site musical (exemple)
+# Site musical l'impératrice
 
-Exemple de site one-page pour un-e artiste musicien-ne.
+Exemple de site one-page pour le groupe français "l'impératrice"
+
+Le site contient une brève biographie, des photos, leurs albums et leur dernier clip.
+
+Les albums redirige vers youtube.
+Le clip est une incrustation iframe.
+La biographie est prise de wikipédia.
+
 
 Cet exemple utilise les méthodes suivantes:
 
