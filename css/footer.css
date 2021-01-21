@@ -1,0 +1,15 @@
+.credits {
+  font-size: 1em;
+  color: white;
+  padding: 1rem;
+  max-width: 4096px;
+  width: 100%;
+  width: 100%;
+  margin: 0 0;
+  /*border-top: solid 1px 	#DAA520;*/
+}
+.credits p{
+	font-size: 1rem;
+	padding: 3px;
+	margin: 2px;
+}
